@@ -1,0 +1,2 @@
+Authlogic Generator Gem. 
+This gem is to generate all of the basic stuff that you need for authentication. Creating new accounts, logging in, logging out, welcome mailers, routes, controllers, views and models.
